@@ -1,0 +1,8 @@
+{
+  "sort_command_audio": "sort_command.wav",
+  "sort_command_transcript": "Send anomalous items to bin two, and normal items to bin one.",
+  "sample_images": [
+    { "path": "data/test/good/good_000.png", "expected": "normal" },
+    { "path": "data/test/anomalous/anomalous_001.png", "expected": "anomalous" }
+  ]
+}
